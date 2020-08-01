@@ -3,7 +3,6 @@
 🌱 Developing my technical skills in the data science field. 
 🔭 Passionate about education, financial education/future of money, human behavior, and space exploration.
 Currently working on
-------
 
 <!--
 **lesro/lesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
