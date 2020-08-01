@@ -4,6 +4,7 @@
 🌱 Developing my technical skills in the data science field. <br>
 🔭 Passionate about education, financial education/future of money, human behavior, and space exploration.
 <br>
+<br>
 **Current Projects**
 * Change Unlimited: Analyzing data for start-up creating a platform for nonprofit donors and fundraisers.
 <!--
