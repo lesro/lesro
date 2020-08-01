@@ -1,7 +1,6 @@
 ### Hey there!! 👋
 
-
-🌱 Developing my technical skills in the data science field. <br>
+🌱 Developing my technical skills at [Galvanize](https://www.galvanize.com) . <br>
 🔭 Passionate about education, financial education/future of money, human behavior, and space exploration.
 <br>
 <br>
