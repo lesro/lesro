@@ -5,7 +5,7 @@
 <br>
 <br>
 **Current Projects**
-* Change Unlimited: Analyzing data for start-up creating a platform for nonprofit donors and fundraisers.
+* Change Unlimited: Using statistical analysis to determine regions of interest for local non-profit start-up, creating a platform for donors and fundraisers.
 * The ASL Project: Using machine learning to predict American Sign Language, alphabet and numbers. 
 <!--
 **lesro/lesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
