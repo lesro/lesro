@@ -6,6 +6,7 @@
 <br>
 **Current Projects**
 * Change Unlimited: Analyzing data for start-up creating a platform for nonprofit donors and fundraisers.
+* The ASL Project: Predicting sign language alphabet and numerical using Neural Nets. 
 <!--
 **lesro/lesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
