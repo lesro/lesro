@@ -6,7 +6,7 @@
 <br>
 **Current Projects**
 * [Change Unlimited](https://github.com/lesro/change_unlimited) : Using statistical analysis to determine regions of interest for local non-profit start-up, creating a platform for donors and fundraisers.
-* [The ASL Project](https://github.com/lesro/The-ASL-project): Using machine learning to predict American Sign Language, alphabet and numbers. 
+* [The ASL Project](https://github.com/lesro/The-ASL-project): Using deep learning in computer vision to bridge the communication gap between the deaf community and everyone else. (American Sign Language, alphabet and numbers)
 <!--
 **lesro/lesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
