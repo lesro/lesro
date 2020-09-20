@@ -3,13 +3,12 @@
 🌱 Developing my technical skills at [Galvanize](https://www.galvanize.com) . <br>
 🔭 Passionate about education, financial education/future of money, human behavior, and space exploration.
 <br>
-<br>
 ### Projects
 ----
 **Ongoing**
-* [deepASLearning](https://github.com/lesro/The-ASL-project): Using deep learning in computer vision to bridge the communication gap between the deaf community and everyone else. (American Sign Language, alphabet and numbers)
-<br>
-**Recent** <br>
+* [deepASLearning](https://github.com/lesro/The-ASL-project): Using deep learning in computer vision to bridge the communication gap between the deaf community and everyone else. (American Sign Language, alphabet and numbers)<br>
+
+**Recent**
 * [Change Unlimited](https://github.com/lesro/change_unlimited) : Using statistical analysis to determine regions of interest for local non-profit start-up, creating a platform for donors and fundraisers.
 <!--
 **lesro/lesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
