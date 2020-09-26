@@ -1,7 +1,8 @@
 ### Hey there!! 👋
 
-🌱 Developing my technical skills at [Galvanize](https://www.galvanize.com) . <br>
-🔭 Passionate about education, financial education/future of money, human behavior, and space exploration.
+🔭 Passionate about education, financial education/future of money, human behavior, and space exploration. <br>
+🌱 Proud graduate of [Galvanize](https://www.galvanize.com) Data Science Immersive . 
+
 <br>
 ### Projects
 ----
