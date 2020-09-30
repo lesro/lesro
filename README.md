@@ -1,6 +1,6 @@
 ### Hey there!! 👋
 
-🔭 Passionate about education, financial education/future of money, human behavior, and space exploration. <br>
+🔭 Passionate about education, financial education/future of money, human behavior, the deaf community and space exploration. <br>
 🌱 Proud graduate of [Galvanize](https://www.galvanize.com) Data Science Immersive . 
 <br>
 ### Projects
