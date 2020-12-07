@@ -6,6 +6,8 @@
 ### Projects
 ----
 **Ongoing**
+* [brAIncache.io](https://github.com/braincache/brAIncache.github.io): Tracking stream of thought and using NLP to curate curiosity environement of continous feedback loops. 
+
 * [deepASLearning](https://github.com/lesro/The-ASL-project): Using deep learning in computer vision to bridge the communication gap between the deaf community and everyone else. (American Sign Language, alphabet and numbers)<br>
 
 **Recent**
